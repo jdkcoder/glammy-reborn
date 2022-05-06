@@ -1,0 +1,170 @@
+.absolute {
+    position: absolute;
+}
+.bg-btn-gold {
+    background-image: url("../images/bg-btn-gold.png");
+}
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+.bg-center {
+    background-position: center;
+}
+.bg-brown-2 {
+    background-color: rgba(233, 215, 191, 1);
+}
+.bg-cover {
+    background-size: cover;
+}
+.bg-full {
+    background-size: 100% 100%;
+}
+.bg-white {
+    background-color: rgba(255, 255, 255, 1);
+}
+.block {
+    display: block
+}
+.border {
+    border-width: 1px;
+}
+.border-transparent {
+    border-color: transparent;
+}
+.bottom-0 {
+    bottom: 0
+}
+
+.col-span-1 {
+    grid-column: span 1 / span 1;
+}
+.font-body {
+    font-family: 'Noto Serif', sans-serif;
+}
+.font-heading {
+    font-family: Architecture, sans-serif;
+}
+.flex {
+    display: flex;
+}
+.grid {
+    display:grid;
+}
+.grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.grid-cols-6 {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+.h-3 {
+    height: 3px;
+}
+.h-9 {
+    height: 9px;
+}
+.hover\:text-pink-1:hover {
+  color: rgba(230, 0, 126, 1);
+}
+.hover\:text-white:hover {
+    color: #ffffff;
+}
+.items-center {
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.left-0 {
+    left: 0px;
+}
+.left-1\/2 {
+    left: 50%;
+}
+.max-w-304 {
+    max-width: 304px;
+}
+.max-w-940 {
+    max-width: 940px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.mt-8 {
+  margin-top: 8px;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.pb-10 {
+    padding-bottom: 10px;
+}
+.pointer {
+    cursor: pointer;
+}
+.pt-62p {
+    padding-top: 62%;
+}
+.px-16 {
+    padding-left: 16px;
+    padding-right: 16px
+}
+.px-40 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.px-80 {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.py-12 {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.py-17 {
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+
+.relative {
+    position: relative;
+}
+.right-1\/2 {
+    right: 50%;
+}
+.text-align-center {
+    text-align: center;
+}
+.text-align-left {
+    text-align: left;
+}
+.text-brown-1 {
+    color: rgba(107, 67, 59, 1);
+}
+
+.text-pink-1 {
+  color: rgba(230, 0, 126, 1);
+}
+.text-shadow {
+    text-shadow: 2px 2px 0px rgb(0 0 0 / 25%);
+}
+.-translate-x-1\/2 {
+    transform: translateX(-50%)
+}
+.-translate-y-1\/2 {
+    transform: translateY(-50%)
+}
+.top-0 {
+    top: 0px;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.w-full {
+    width: 100%;
+}
